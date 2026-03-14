@@ -25,3 +25,6 @@ lib/
 
 # Mac OS application bundles
 *.app/
+
+# Gimp projects
+*.xcf
