@@ -1,0 +1,27 @@
+# Free Pascal compiler-generated files
+*.exe
+*.dll
+*.so
+*.dylib
+*.ppu
+*.o
+*.or
+*.a
+*.compiled
+*.dbg
+*.bak
+*.map
+*.tmp
+*.obj
+
+# Lazarus IDE-generated files and folders
+# (output folders can be changed in project options)
+backup/
+lib/
+*.lrs
+*.rst
+*.rsj
+*.lrt
+
+# Mac OS application bundles
+*.app/
