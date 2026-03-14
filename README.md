@@ -1,5 +1,7 @@
 # Flutter Layout Widgets for Lazarus
 
+<img src="https://raw.githubusercontent.com/TheCarlosJR/flutter_layouts_lcl/refs/heads/main/icon.png" alt="Logo image - Lazarus with Flutter mixed" width="100" height="100">
+
 Componentes visuais para **Lazarus / FreePascal** que imitam o sistema de layout do **Flutter**, todos herdados e adaptados de `TScrollBox`.
 
 ---
